@@ -1,4 +1,4 @@
-﻿namespace Talapker.Identity.Contracts;
+﻿namespace Pharos.Identity.Contracts;
 
 public static class Roles
 {
