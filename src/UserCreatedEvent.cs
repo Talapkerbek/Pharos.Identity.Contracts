@@ -1,3 +1,3 @@
 ﻿namespace Pharos.Identity.Contracts;
 
-public record UserCreatedEvent(Guid Id, string FirstName, string LastName, string Email);
+public record UserCreatedEvent(Guid Id, string FirstName, string LastName, string Email, string? TenantId);
